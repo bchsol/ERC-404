@@ -1,2 +1,1 @@
-"# ERC-404" 
-"# ERC-404" 
+ERC-404 Practice
